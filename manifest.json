@@ -1,11 +1,10 @@
-[
-  {
-    "id": "Dublagem Brasil",
-    "nome": "Dublagem Brasil",
-    "descricao": "Vozes brasileiras do Elsword",
-    "arquivo": "Dublagem.Brasil.rar",
-    "sha256": "",
-    "partes": [
-      "https://github.com/AyameJk/ElsEvoDublagens/releases/download/v1.0/Dublagem.Brasil.rar",
-    ]
-  }
+{
+  "id": "Dublagem Brasil",
+  "nome": "Dublagem Brasil",
+  "descricao": "Vozes brasileiras do Elsword",
+  "arquivo": "Dublagem.Brasil.rar",
+  "sha256": "",
+  "partes": [
+    "https://github.com/AyameJk/ElsEvoDublagens/releases/download/v1.0/Dublagem.Brasil.rar"
+  ]
+}
